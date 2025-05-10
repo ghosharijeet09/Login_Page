@@ -14,4 +14,4 @@
 
 ![6](https://github.com/ghosharijeet09/Login_Page/blob/3229494c452cd05086af011f1e1020804785bb02/extra_docs/Docker.png)
 
-![image](https://github.com/user-attachments/assets/ebc13a26-4d38-432a-b25f-12ca03429e60)
+
